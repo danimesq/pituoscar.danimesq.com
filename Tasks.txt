@@ -1,4 +1,4 @@
-- add 2010's Pitu GIF 💝
+- redirect from pitu.danimesq.com
 - add their voices
 - add music
-- link to pituzito.mesquito.danimesq.com (redirect from: pitu.mesquito.danimesq.com), but first create that site and linkback from it
+- link to mesquito.danimesq.com/pituzito (redirect from: mesquito.danimesq.com/pitu), but first create that site and linkback from it
