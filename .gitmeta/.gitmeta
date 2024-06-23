@@ -1,12 +1,12 @@
-commit QmTgJibvhyJSASHobFNu2CjrB5mvbCDbnHjzAWy3d7jn7H
+commit QmRmtoEwbontGDqdgSGThps8PuJzdgYQYXSXo1ttfScbu4
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 160eec84d07139ee88d585f14df378a32c6e8d3f67c33fd97705410555e9f5db6ed8288b5ba0e7befdb3eb4864ac0c90e48ce17463286d75569cd7629f39e42400
+Signature: 340ada2fdaf9d1ea3e7858286ccbb6ececfa3600a15706d1ea0bfbc4aa384ce766e6d166e41e2a2407368e737151b29611c7b4b574b906b376f4469f68cae79400
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmZmuFXc3k9HNKG81MCnNKNGH1rfwjQZsAWxjZPi1vA6A8
-Commit CID if containing only file hashes: QmWrifHwbDZEKDHymTL8nthMv9SgeqaTEuGVTbHCqXnHp3
+Commit CID if including git's SHA1: QmTrUJ8t239oakacmYgd5Zihu7BaRXYC4HE8wbXHXLA77k
+Commit CID if containing only file hashes: QmUXgFXeKFVx6CZzHTAQJmbm4WcP6eyr1kvwvyNFMnsLVD
 
 ------------------------------
 
@@ -19,13 +19,5 @@ Remote URL: https://github.com/danimesq/pituoscar.danimesq.com.git
 
 chown -h 1000:1000 'Tasks.txt'
 chmod 0664 'Tasks.txt'
-/usr/bin/touch -hcmd "2024-06-23 12:25:05.9253661000 -0300" 'Tasks.txt'
-/usr/bin/touch -hcad "2024-06-23 12:25:15.7610367000 -0300" 'Tasks.txt'
-chown -h 1000:1000 'img/Screenshot_20240508_220526_Facebook.cropped.png'
-chmod 0755 'img/Screenshot_20240508_220526_Facebook.cropped.png'
-/usr/bin/touch -hcmd "2024-06-23 12:08:06.5600531000 -0300" 'img/Screenshot_20240508_220526_Facebook.cropped.png'
-/usr/bin/touch -hcad "2024-06-23 12:08:18.4136045000 -0300" 'img/Screenshot_20240508_220526_Facebook.cropped.png'
-chown -h 1000:1000 'index.html'
-chmod 0664 'index.html'
-/usr/bin/touch -hcmd "2024-06-23 12:18:46.1222140000 -0300" 'index.html'
-/usr/bin/touch -hcad "2024-06-23 12:25:15.7610367000 -0300" 'index.html'
+/usr/bin/touch -hcmd "2024-06-23 17:42:10.2422573000 -0300" 'Tasks.txt'
+/usr/bin/touch -hcad "2024-06-23 17:42:17.1260863000 -0300" 'Tasks.txt'

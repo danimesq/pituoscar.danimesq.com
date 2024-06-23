@@ -1,4 +1,3 @@
-- redirect from pitu.danimesq.com
 - add their voices
 - add music
 - link to mesquito.danimesq.com/pituzito (redirect from: mesquito.danimesq.com/pitu), but first create that site and linkback from it
