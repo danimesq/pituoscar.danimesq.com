@@ -1,12 +1,12 @@
-commit QmRmtoEwbontGDqdgSGThps8PuJzdgYQYXSXo1ttfScbu4
+commit QmY3pZVfLGELnV6mP6DM41kmWa7yK5Tg9BgU81EjNYXrbw
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 340ada2fdaf9d1ea3e7858286ccbb6ececfa3600a15706d1ea0bfbc4aa384ce766e6d166e41e2a2407368e737151b29611c7b4b574b906b376f4469f68cae79400
+Signature: 6e383cabded4f7600bee8ee12264c4737901192cdb9927caa8cf8d05acce8f2f6c927f13a108a71858df6a87af95ac175ebd55ed41d262ea072f2738f84e6e9501
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmTrUJ8t239oakacmYgd5Zihu7BaRXYC4HE8wbXHXLA77k
-Commit CID if containing only file hashes: QmUXgFXeKFVx6CZzHTAQJmbm4WcP6eyr1kvwvyNFMnsLVD
+Commit CID if including git's SHA1: QmXeYc9b78xQ437rXbyNvv1reUTv3sZ4xZ8XjpLKf7vygb
+Commit CID if containing only file hashes: QmVnxjwkJbGAepUgPtkTxrZvHXonEnFkVecT24vWijyhsE
 
 ------------------------------
 
@@ -17,7 +17,87 @@ Remote URL: https://github.com/danimesq/pituoscar.danimesq.com.git
 
 ------------------------------
 
-chown -h 1000:1000 'Tasks.txt'
-chmod 0664 'Tasks.txt'
-/usr/bin/touch -hcmd "2024-06-23 17:42:10.2422573000 -0300" 'Tasks.txt'
-/usr/bin/touch -hcad "2024-06-23 17:42:17.1260863000 -0300" 'Tasks.txt'
+chown -h 1000:1000 '.gitignore'
+chmod 0664 '.gitignore'
+/usr/bin/touch -hcmd "2024-07-11 14:02:40.8908529000 -0300" '.gitignore'
+/usr/bin/touch -hcad "2024-07-11 14:02:58.1382569000 -0300" '.gitignore'
+chown -h 1000:1000 'favicon.ico'
+chmod 0664 'favicon.ico'
+/usr/bin/touch -hcmd "2024-07-11 14:03:25.4517289000 -0300" 'favicon.ico'
+/usr/bin/touch -hcad "2024-07-11 14:03:28.0354897000 -0300" 'favicon.ico'
+chown -h 1000:1000 'favicon.png'
+chmod 0755 'favicon.png'
+/usr/bin/touch -hcmd "2024-07-10 23:59:49.9278964000 -0300" 'favicon.png'
+/usr/bin/touch -hcad "2024-07-11 14:03:07.9823458000 -0300" 'favicon.png'
+chown -h 1000:1000 'index.html'
+chmod 0664 'index.html'
+/usr/bin/touch -hcmd "2024-07-11 14:05:51.1712314000 -0300" 'index.html'
+/usr/bin/touch -hcad "2024-07-11 14:05:53.0080612000 -0300" 'index.html'
+chown -h 1000:1000 'logotype.png'
+chmod 0755 'logotype.png'
+/usr/bin/touch -hcmd "2024-07-10 23:52:26.0373337000 -0300" 'logotype.png'
+/usr/bin/touch -hcad "2024-07-11 14:02:26.5741775000 -0300" 'logotype.png'
+chown -h 1000:1000 'logotype.svg'
+chmod 0755 'logotype.svg'
+/usr/bin/touch -hcmd "2024-07-10 23:52:37.1152836000 -0300" 'logotype.svg'
+/usr/bin/touch -hcad "2024-07-11 14:02:26.5841766000 -0300" 'logotype.svg'
+chown -h 1000:1000 'new/.folderstamp1'
+chmod 0664 'new/.folderstamp1'
+/usr/bin/touch -hcmd "2024-07-11 13:14:11.6013370000 -0300" 'new/.folderstamp1'
+/usr/bin/touch -hcad "2024-07-11 13:14:31.1848505000 -0300" 'new/.folderstamp1'
+chown -h 1000:1000 'new/.folderstamp2'
+chmod 0664 'new/.folderstamp2'
+/usr/bin/touch -hcmd "2024-07-11 13:14:32.2977656000 -0300" 'new/.folderstamp2'
+/usr/bin/touch -hcad "2024-07-11 14:03:01.1099819000 -0300" 'new/.folderstamp2'
+chown -h 1000:1000 'new/done/vectorize.svg'
+chmod 0755 'new/done/vectorize.svg'
+/usr/bin/touch -hcmd "2024-07-10 19:41:19.6603135000 -0300" 'new/done/vectorize.svg'
+/usr/bin/touch -hcad "2024-07-11 13:14:31.3048413000 -0300" 'new/done/vectorize.svg'
+chown -h 1000:1000 'new/logotypelinedblack.png'
+chmod 0755 'new/logotypelinedblack.png'
+/usr/bin/touch -hcmd "2024-07-11 00:10:23.1460433000 -0300" 'new/logotypelinedblack.png'
+/usr/bin/touch -hcad "2024-07-11 13:14:19.0097762000 -0300" 'new/logotypelinedblack.png'
+chown -h 1000:1000 'new/logotypelinedblack.svg'
+chmod 0755 'new/logotypelinedblack.svg'
+/usr/bin/touch -hcmd "2024-07-11 00:10:30.3294551000 -0300" 'new/logotypelinedblack.svg'
+/usr/bin/touch -hcad "2024-07-11 13:14:19.1767636000 -0300" 'new/logotypelinedblack.svg'
+chown -h 1000:1000 'new/logotypelinedcolor.png'
+chmod 0755 'new/logotypelinedcolor.png'
+/usr/bin/touch -hcmd "2024-07-11 00:10:04.8444553000 -0300" 'new/logotypelinedcolor.png'
+/usr/bin/touch -hcad "2024-07-11 13:14:19.1677643000 -0300" 'new/logotypelinedcolor.png'
+chown -h 1000:1000 'new/logotypelinedcolor.svg'
+chmod 0755 'new/logotypelinedcolor.svg'
+/usr/bin/touch -hcmd "2024-07-11 00:10:12.0592889000 -0300" 'new/logotypelinedcolor.svg'
+/usr/bin/touch -hcad "2024-07-11 13:14:19.1597649000 -0300" 'new/logotypelinedcolor.svg'
+chown -h 1000:1000 'new/logotypelinedwhite.png'
+chmod 0755 'new/logotypelinedwhite.png'
+/usr/bin/touch -hcmd "2024-07-11 00:10:42.1685585000 -0300" 'new/logotypelinedwhite.png'
+/usr/bin/touch -hcad "2024-07-11 13:14:19.1497656000 -0300" 'new/logotypelinedwhite.png'
+chown -h 1000:1000 'new/logotypelinedwhite.svg'
+chmod 0755 'new/logotypelinedwhite.svg'
+/usr/bin/touch -hcmd "2024-07-11 00:10:49.3646180000 -0300" 'new/logotypelinedwhite.svg'
+/usr/bin/touch -hcad "2024-07-11 13:14:19.1267674000 -0300" 'new/logotypelinedwhite.svg'
+chown -h 1000:1000 'new/logotypeplainblack.png'
+chmod 0755 'new/logotypeplainblack.png'
+/usr/bin/touch -hcmd "2024-07-11 00:07:59.1389111000 -0300" 'new/logotypeplainblack.png'
+/usr/bin/touch -hcad "2024-07-11 13:14:19.1207678000 -0300" 'new/logotypeplainblack.png'
+chown -h 1000:1000 'new/logotypeplainblack.svg'
+chmod 0755 'new/logotypeplainblack.svg'
+/usr/bin/touch -hcmd "2024-07-11 00:08:05.8501206000 -0300" 'new/logotypeplainblack.svg'
+/usr/bin/touch -hcad "2024-07-11 13:14:19.1127684000 -0300" 'new/logotypeplainblack.svg'
+chown -h 1000:1000 'new/logotypeplaincolor.png'
+chmod 0755 'new/logotypeplaincolor.png'
+/usr/bin/touch -hcmd "2024-07-11 00:02:08.7169151000 -0300" 'new/logotypeplaincolor.png'
+/usr/bin/touch -hcad "2024-07-11 13:14:19.0887703000 -0300" 'new/logotypeplaincolor.png'
+chown -h 1000:1000 'new/logotypeplaincolor.svg'
+chmod 0755 'new/logotypeplaincolor.svg'
+/usr/bin/touch -hcmd "2024-07-11 00:02:15.6922355000 -0300" 'new/logotypeplaincolor.svg'
+/usr/bin/touch -hcad "2024-07-11 13:14:19.0817708000 -0300" 'new/logotypeplaincolor.svg'
+chown -h 1000:1000 'new/logotypeplainwhite.png'
+chmod 0755 'new/logotypeplainwhite.png'
+/usr/bin/touch -hcmd "2024-07-11 00:08:23.4374331000 -0300" 'new/logotypeplainwhite.png'
+/usr/bin/touch -hcad "2024-07-11 13:14:19.0677718000 -0300" 'new/logotypeplainwhite.png'
+chown -h 1000:1000 'new/logotypeplainwhite.svg'
+chmod 0755 'new/logotypeplainwhite.svg'
+/usr/bin/touch -hcmd "2024-07-11 00:08:29.7117851000 -0300" 'new/logotypeplainwhite.svg'
+/usr/bin/touch -hcad "2024-07-11 13:14:19.0717715000 -0300" 'new/logotypeplainwhite.svg'

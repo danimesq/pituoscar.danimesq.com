@@ -1,0 +1,215 @@
+This folder: /media/daniella/B/git/danimesq/Sites/subdomains/pituoscar/new
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./.folderstamp
+  Size: 118       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 1158800     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 13:14:31.053860500 -0300
+Modify: 2024-07-11 13:14:31.079858500 -0300
+Change: 2024-07-11 13:14:31.079858500 -0300
+ Birth: 2024-07-11 13:14:31.053860500 -0300
+IPFS hash: QmWPovrt9v5YC6pYRA2XTLnrydnpG1hhShNXPDJvSxCF1b
+------------------------------
+  File: ./.folderstamp1
+  Size: 9629      	Blocks: 24         IO Block: 4096   regular file
+Device: 8,52	Inode: 1016719     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 13:14:18.941781400 -0300
+Modify: 2024-07-11 13:14:11.601337000 -0300
+Change: 2024-07-11 13:14:18.943781200 -0300
+ Birth: 2024-07-11 13:14:18.941781400 -0300
+IPFS hash: QmNeoD9NUMRvKRRNq8C3S2uHAnY25ap9EsuRRSruuGDjKg
+------------------------------
+  File: ./done/vectorize.png
+  Size: 35995     	Blocks: 72         IO Block: 4096   regular file
+Device: 8,52	Inode: 3563925     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 03:00:10.563281500 -0300
+Modify: 2024-07-10 19:40:51.852850700 -0300
+Change: 2024-07-11 13:14:18.771794300 -0300
+ Birth: 2024-07-11 13:14:18.768794500 -0300
+IPFS hash: QmP55TwY39BTfDfbMzNn6hLrXKdmhpZ9SmcGsZDcubmFRR
+------------------------------
+  File: ./done/vectorize.svg
+  Size: 27039     	Blocks: 56         IO Block: 4096   regular file
+Device: 8,52	Inode: 3612831     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 03:00:10.581159100 -0300
+Modify: 2024-07-10 19:41:19.660313500 -0300
+Change: 2024-07-11 13:14:18.775794000 -0300
+ Birth: 2024-07-11 13:14:18.771794300 -0300
+IPFS hash: Qmcw5LZR4AjgnzmqqDR6PLQtV6CQa4AsASuQScoiRZeCbP
+------------------------------
+  File: ./favicon.png
+  Size: 9799      	Blocks: 24         IO Block: 4096   regular file
+Device: 8,52	Inode: 3647888     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 13:14:19.000776900 -0300
+Modify: 2024-07-10 23:59:49.927896400 -0300
+Change: 2024-07-11 13:14:18.803791900 -0300
+ Birth: 2024-07-11 13:14:18.801792000 -0300
+IPFS hash: QmdxFi8MRzjPySkTtbJqnn78oWoGEDZdCETJbTkZhR7gUb
+------------------------------
+  File: ./logotype.png
+  Size: 128951    	Blocks: 256        IO Block: 4096   regular file
+Device: 8,52	Inode: 3688826     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 13:14:18.999777000 -0300
+Modify: 2024-07-10 23:52:26.037333700 -0300
+Change: 2024-07-11 13:14:18.806791600 -0300
+ Birth: 2024-07-11 13:14:18.804791800 -0300
+IPFS hash: QmQaG3D8U1Ge4K4vJrUWyQSV6b9spJkatYYEgxABenHKzq
+------------------------------
+  File: ./logotype.svg
+  Size: 32740     	Blocks: 64         IO Block: 4096   regular file
+Device: 8,52	Inode: 3723967     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 13:14:19.003776700 -0300
+Modify: 2024-07-10 23:52:37.115283600 -0300
+Change: 2024-07-11 13:14:18.812791200 -0300
+ Birth: 2024-07-11 13:14:18.807791600 -0300
+IPFS hash: QmbxFGeEdTivZYfFJRtBAvUL34adCKCi2fZveG8KrRF9ad
+------------------------------
+  File: ./logotypelinedblack.png
+  Size: 59201     	Blocks: 120        IO Block: 4096   regular file
+Device: 8,52	Inode: 3764821     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 13:14:19.009776200 -0300
+Modify: 2024-07-11 00:10:23.146043300 -0300
+Change: 2024-07-11 13:14:18.815791000 -0300
+ Birth: 2024-07-11 13:14:18.812791200 -0300
+IPFS hash: QmbDKs4ijDJ7oF2fnnXws5z1QXGqunKPwz9GNrstcXUpit
+------------------------------
+  File: ./logotypelinedblack.svg
+  Size: 19751     	Blocks: 40         IO Block: 4096   regular file
+Device: 8,52	Inode: 3868140     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 13:14:19.176763600 -0300
+Modify: 2024-07-11 00:10:30.329455100 -0300
+Change: 2024-07-11 13:14:18.835789400 -0300
+ Birth: 2024-07-11 13:14:18.832789700 -0300
+IPFS hash: QmWLF5N1pSHMyxY4n63ffpqmyve1f8tmqE9m48tvC4QtzX
+------------------------------
+  File: ./logotypelinedcolor.png
+  Size: 58011     	Blocks: 120        IO Block: 4096   regular file
+Device: 8,52	Inode: 3900624     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 13:14:19.167764300 -0300
+Modify: 2024-07-11 00:10:04.844455300 -0300
+Change: 2024-07-11 13:14:18.853788100 -0300
+ Birth: 2024-07-11 13:14:18.851788200 -0300
+IPFS hash: Qmeffr6dUauZGiBPWLneDqcXhRxSAi5UaxqL3toRBKuHDM
+------------------------------
+  File: ./logotypelinedcolor.svg
+  Size: 19832     	Blocks: 40         IO Block: 4096   regular file
+Device: 8,52	Inode: 3929990     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 13:14:19.159764900 -0300
+Modify: 2024-07-11 00:10:12.059288900 -0300
+Change: 2024-07-11 13:14:18.856787800 -0300
+ Birth: 2024-07-11 13:14:18.853788100 -0300
+IPFS hash: QmPWq3DkXg1xgZueWP8imhL1tTUK5rFprJoLNehwHT9MZS
+------------------------------
+  File: ./logotypelinedwhite.png
+  Size: 59173     	Blocks: 120        IO Block: 4096   regular file
+Device: 8,52	Inode: 4333875     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 13:14:19.149765600 -0300
+Modify: 2024-07-11 00:10:42.168558500 -0300
+Change: 2024-07-11 13:14:18.859787600 -0300
+ Birth: 2024-07-11 13:14:18.856787800 -0300
+IPFS hash: QmcFgTWBDf8SxCFp5ryq5CWtS9QZnCHqcHTEHoS6G2hfim
+------------------------------
+  File: ./logotypelinedwhite.svg
+  Size: 19482     	Blocks: 40         IO Block: 4096   regular file
+Device: 8,52	Inode: 4410545     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 13:14:19.126767400 -0300
+Modify: 2024-07-11 00:10:49.364618000 -0300
+Change: 2024-07-11 13:14:18.864787200 -0300
+ Birth: 2024-07-11 13:14:18.859787600 -0300
+IPFS hash: QmQNnANWBHNBrNcuRPorQA85HkZkh5aRMNbS2on8ssF9Y1
+------------------------------
+  File: ./logotypeplainblack.png
+  Size: 48585     	Blocks: 96         IO Block: 4096   regular file
+Device: 8,52	Inode: 4426756     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 13:14:19.120767800 -0300
+Modify: 2024-07-11 00:07:59.138911100 -0300
+Change: 2024-07-11 13:14:18.892785100 -0300
+ Birth: 2024-07-11 13:14:18.890785300 -0300
+IPFS hash: QmXchoYSaqajDvKViAxn57rZFqNmEne4eC9VV99pwuX4zo
+------------------------------
+  File: ./logotypeplainblack.svg
+  Size: 13635     	Blocks: 32         IO Block: 4096   regular file
+Device: 8,52	Inode: 4462712     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 13:14:19.112768400 -0300
+Modify: 2024-07-11 00:08:05.850120600 -0300
+Change: 2024-07-11 13:14:18.904784200 -0300
+ Birth: 2024-07-11 13:14:18.902784400 -0300
+IPFS hash: QmU247MQRt43QZP2tfAn8S7h1VnBSLDDLxxYV6m2axBQXJ
+------------------------------
+  File: ./logotypeplaincolor.png
+  Size: 118401    	Blocks: 232        IO Block: 4096   regular file
+Device: 8,52	Inode: 84008       Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 13:14:19.088770300 -0300
+Modify: 2024-07-11 00:02:08.716915100 -0300
+Change: 2024-07-11 13:14:18.917783200 -0300
+ Birth: 2024-07-11 13:14:18.914783400 -0300
+IPFS hash: QmQCPMmKt5Jk1pkTYnkt8XMEbP2yCYdzq8RUCyWBwkw854
+------------------------------
+  File: ./logotypeplaincolor.svg
+  Size: 29955     	Blocks: 64         IO Block: 4096   regular file
+Device: 8,52	Inode: 119101      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 13:14:19.081770800 -0300
+Modify: 2024-07-11 00:02:15.692235500 -0300
+Change: 2024-07-11 13:14:18.919783100 -0300
+ Birth: 2024-07-11 13:14:18.917783200 -0300
+IPFS hash: QmTHTarvv7axF1yG3ZShN85MapMansnrL8gij2Ao8rsn8N
+------------------------------
+  File: ./logotypeplainwhite.png
+  Size: 49145     	Blocks: 96         IO Block: 4096   regular file
+Device: 8,52	Inode: 182388      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 13:14:19.067771800 -0300
+Modify: 2024-07-11 00:08:23.437433100 -0300
+Change: 2024-07-11 13:14:18.934781900 -0300
+ Birth: 2024-07-11 13:14:18.932782100 -0300
+IPFS hash: QmS2Cw1uD36AWem4FJ9zLkw5P5gh4uhtHdauHYTTiyGv2s
+------------------------------
+  File: ./logotypeplainwhite.svg
+  Size: 13833     	Blocks: 32         IO Block: 4096   regular file
+Device: 8,52	Inode: 198862      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 13:14:19.071771500 -0300
+Modify: 2024-07-11 00:08:29.711785100 -0300
+Change: 2024-07-11 13:14:18.936781800 -0300
+ Birth: 2024-07-11 13:14:18.934781900 -0300
+IPFS hash: QmTKAMnzdvSFsFg8m9YeZcYkgu49SSp8fTsnWPn6U45P5y
+------------------------------
+  File: ./Pitu&Oscar-2.pptx
+  Size: 210314    	Blocks: 416        IO Block: 4096   regular file
+Device: 8,52	Inode: 983567      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 13:14:19.037774100 -0300
+Modify: 2024-07-11 00:10:57.137217800 -0300
+Change: 2024-07-11 13:14:18.940781500 -0300
+ Birth: 2024-07-11 13:14:18.938781600 -0300
+IPFS hash: QmeQWJBuwA3z21Tw6xRSzKDs4PzRYJpCDp6oPAcwK5FK1W
+------------------------------
+  File: ./Pitu&Oscar.pptx
+  Size: 34138     	Blocks: 72         IO Block: 4096   regular file
+Device: 8,52	Inode: 233998      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-07-11 13:14:19.048773300 -0300
+Modify: 2024-07-10 19:43:20.617918100 -0300
+Change: 2024-07-11 13:14:18.938781600 -0300
+ Birth: 2024-07-11 13:14:18.936781800 -0300
+IPFS hash: QmPHCV5rC2WRqterwGFLqsXFKLdQzSBk1ureSgELLcrEYS
+------------------------------
